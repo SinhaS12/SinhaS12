@@ -28,5 +28,5 @@
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)!
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
 [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
